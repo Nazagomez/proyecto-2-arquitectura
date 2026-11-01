@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>JBL Tune 770NC</title>
+  <rect width="800" height="800" fill="#241820"/>
+  <circle cx="590" cy="160" r="190" fill="#d48b9a" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#d48b9a" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f6eee8" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" transform="scale(0.84)"><path d="M-140 -10c0-110 62-180 140-180s140 70 140 180"/><rect x="-176" y="-16" width="74" height="146" rx="37"/><rect x="102" y="-16" width="74" height="146" rx="37"/></g></g>
+  <text x="72" y="700" fill="#f6eee8" font-family="Georgia, serif" font-size="28">JBL</text>
+  <text x="728" y="700" fill="#d48b9a" font-family="Georgia, serif" font-size="22" text-anchor="end">06</text>
+</svg>

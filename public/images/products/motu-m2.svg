@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>MOTU M2</title>
+  <rect width="800" height="800" fill="#241820"/>
+  <circle cx="590" cy="160" r="190" fill="#d48b9a" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#d48b9a" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f6eee8" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="-180" y="-72" width="360" height="150" rx="18"/><circle cx="-88" cy="4" r="26"/><circle cx="-12" cy="4" r="26"/><path d="M64 -8h92"/><path d="M64 22h68"/></g></g>
+  <text x="72" y="700" fill="#f6eee8" font-family="Georgia, serif" font-size="28">MOTU</text>
+  <text x="728" y="700" fill="#d48b9a" font-family="Georgia, serif" font-size="22" text-anchor="end">27</text>
+</svg>

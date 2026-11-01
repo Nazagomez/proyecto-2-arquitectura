@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "audifonos",
+    "name": "Audífonos",
+    "summary": "Estudio, calle y escucha crítica.",
+    "description": "Cerrados para grabar, abiertos para mezclar y modelos con cancelación de ruido para viajar."
+  },
+  {
+    "slug": "parlantes",
+    "name": "Parlantes",
+    "summary": "Monitores, estantería y portátiles.",
+    "description": "Monitores de campo cercano, parlantes de estantería y un equipo portátil para ensayo."
+  },
+  {
+    "slug": "amplificadores",
+    "name": "Amplificadores",
+    "summary": "Integrados para parlantes pasivos.",
+    "description": "Potencia para estantería y sala, con entrada de tornamesa o fuentes digitales."
+  },
+  {
+    "slug": "tornamesas",
+    "name": "Tornamesas",
+    "summary": "Vinilo con cápsula incluida.",
+    "description": "Modelos para empezar y tornamesas para escuchar con más calma o digitalizar discos."
+  },
+  {
+    "slug": "interfaces",
+    "name": "Interfaces de audio",
+    "summary": "Grabá voces e instrumentos.",
+    "description": "Interfaces USB para podcast, ensayo y estudio en casa."
+  },
+  {
+    "slug": "microfonos",
+    "name": "Micrófonos",
+    "summary": "Dinámicos y de condensador.",
+    "description": "Voces en vivo, broadcast y grabación en una habitación tratada o sin tratar."
+  },
+  {
+    "slug": "accesorios",
+    "name": "Accesorios",
+    "summary": "Cables, soportes y repuestos.",
+    "description": "Lo que completa el equipo: soporte de micrófono, cable balanceado y repuestos."
+  }
+]

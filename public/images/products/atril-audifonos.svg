@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>Aural Soporte de audífonos</title>
+  <rect width="800" height="800" fill="#1a2428"/>
+  <circle cx="590" cy="160" r="190" fill="#7f9eae" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#7f9eae" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f3eee6" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M-150 36c36-88 74-88 110 0s74 88 110 0 48-64 78-28"/><circle cx="-158" cy="44" r="14"/><circle cx="164" cy="-6" r="14"/></g></g>
+  <text x="72" y="700" fill="#f3eee6" font-family="Georgia, serif" font-size="28">Aural</text>
+  <text x="728" y="700" fill="#7f9eae" font-family="Georgia, serif" font-size="22" text-anchor="end">35</text>
+</svg>

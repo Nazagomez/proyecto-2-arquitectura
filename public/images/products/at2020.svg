@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>Audio-Technica AT2020</title>
+  <rect width="800" height="800" fill="#1d2623"/>
+  <circle cx="590" cy="160" r="190" fill="#8eae98" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#8eae98" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f3eadf" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="-40" y="-158" width="80" height="176" rx="40"/><path d="M0 18v92"/><path d="M-68 110h136"/></g></g>
+  <text x="72" y="700" fill="#f3eadf" font-family="Georgia, serif" font-size="28">Audio-Technica</text>
+  <text x="728" y="700" fill="#8eae98" font-family="Georgia, serif" font-size="22" text-anchor="end">30</text>
+</svg>

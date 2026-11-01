@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>Sony PS-LX310BT</title>
+  <rect width="800" height="800" fill="#2c211c"/>
+  <circle cx="590" cy="160" r="190" fill="#e07a4c" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#e07a4c" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f3eadf" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="-168" y="-136" width="336" height="262" rx="14"/><circle cx="-8" cy="-8" r="88"/><circle cx="-8" cy="-8" r="7" fill="#f6f1e8" stroke="none"/><path d="M78 -108l62 18"/></g></g>
+  <text x="72" y="700" fill="#f3eadf" font-family="Georgia, serif" font-size="28">Sony</text>
+  <text x="728" y="700" fill="#e07a4c" font-family="Georgia, serif" font-size="22" text-anchor="end">22</text>
+</svg>

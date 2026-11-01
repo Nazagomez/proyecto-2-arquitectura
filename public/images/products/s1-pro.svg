@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>Bose S1 Pro+</title>
+  <rect width="800" height="800" fill="#241820"/>
+  <circle cx="590" cy="160" r="190" fill="#d48b9a" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#d48b9a" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f6eee8" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="-90" y="-150" width="180" height="290" rx="10"/><circle cx="0" cy="28" r="64"/><circle cx="0" cy="-72" r="20"/></g></g>
+  <text x="72" y="700" fill="#f6eee8" font-family="Georgia, serif" font-size="28">Bose</text>
+  <text x="728" y="700" fill="#d48b9a" font-family="Georgia, serif" font-size="22" text-anchor="end">13</text>
+</svg>

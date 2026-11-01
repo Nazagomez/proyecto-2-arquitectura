@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <title>JBL 305P MkII (par)</title>
+  <rect width="800" height="800" fill="#2a221c"/>
+  <circle cx="590" cy="160" r="190" fill="#c9b59a" opacity="0.2"/>
+  <circle cx="150" cy="640" r="130" fill="#c9b59a" opacity="0.12"/>
+  <rect x="46" y="46" width="708" height="708" fill="none" stroke="#f7f1e8" stroke-opacity="0.28"/>
+  <g transform="translate(400 355)"><g fill="none" stroke="#f6f1e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="-170" y="-64" width="340" height="128" rx="64"/><circle cx="-78" cy="0" r="34"/><circle cx="96" cy="0" r="18"/></g></g>
+  <text x="72" y="700" fill="#f7f1e8" font-family="Georgia, serif" font-size="28">JBL</text>
+  <text x="728" y="700" fill="#c9b59a" font-family="Georgia, serif" font-size="22" text-anchor="end">12</text>
+</svg>
