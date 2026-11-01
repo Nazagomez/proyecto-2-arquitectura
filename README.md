@@ -72,8 +72,8 @@ Cada ficha abre un issue distinto según su ruta.
 El entregable es el código, no la carpeta generada. Netlify puede generarla:
 
 - Build command: `npm run generate`
-- Publish directory: `.output/public`
+- Publish directory: `dist`
 - Node 22
 - Las tres variables `NUXT_PUBLIC_...` en el panel del sitio
 
-`netlify.toml` ya trae el comando y la carpeta. No subas `.output`, `.nuxt` ni `node_modules`.
+`netlify.toml` ya trae el comando y la carpeta. En Netlify, Nuxt escribe el sitio en `dist`. No subas `.output`, `dist`, `.nuxt` ni `node_modules`.

@@ -66,10 +66,6 @@ export default defineNuxtConfig({
         },
         { rel: 'preconnect', href: 'https://app.snipcart.com' },
         { rel: 'preconnect', href: 'https://cdn.snipcart.com' },
-        { rel: 'stylesheet', href: 'https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css' },
-      ],
-      script: [
-        { src: 'https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js', async: true },
       ],
     },
   },
